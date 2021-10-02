@@ -6,7 +6,9 @@ Hi, I'm Prateek Chachra. A Full Stack Developer, who sometimes dabbles in Mobile
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=prateekchachra.prateekchachra)  <br> 
 
-- Full Stack Development (React/Node.js) - Hybrid (Android/iOS) Mobile Application Development (React Native) - CI / CD
+- Full Stack Development (React/Node.js) 
+- Hybrid (Android/iOS) Mobile Application Development (React Native) 
+- CI / CD
 
 **Languages and Tools I Use:** 
 
