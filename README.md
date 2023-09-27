@@ -12,9 +12,10 @@ I am a Language Enthusiast. Yo puedo hablar en español. Я тоже могу г
 [![Linkedin Badge](https://img.shields.io/badge/-PrateekChachra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prateek-chachra-3a2030a7/)](https://www.linkedin.com/in/prateek-chachra-3a2030a7/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:prateekchachra6561@gmail.com)](mailto:prateekchachra6561@gmail.com)
 <br>
+![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateekchachra&show_icons=true&theme=radical)
 <br>
 
-- Full Stack Development (React/Next.js/Node.js) 
+- Full Stack Development (React/Next.js as FE with some Remix and Astro thrown in, Node.js Express or Fastify as backend) 
 - Hybrid (Android/iOS) Mobile Application Development (React Native) 
 - CI / CD
 
