@@ -12,12 +12,14 @@ I am a Language Enthusiast. Yo puedo hablar en español. Я тоже могу г
 [![Linkedin Badge](https://img.shields.io/badge/-PrateekChachra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prateek-chachra-3a2030a7/)](https://www.linkedin.com/in/prateek-chachra-3a2030a7/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:prateekchachra6561@gmail.com)](mailto:prateekchachra6561@gmail.com)
 <br>
-![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateekchachra&show_icons=true&theme=radical)
-<br>
 
 - Full Stack Development (React/Next.js as FE with some Remix and Astro thrown in, Node.js Express or Fastify as backend) 
 - Hybrid (Android/iOS) Mobile Application Development (React Native) 
 - CI / CD
+
+##  My Github Status 👩🏻‍💻
+![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateekchachra&show_icons=true&theme=radical)
+<br>
 
 ## Languages and Tools I Use 🚀 
 
@@ -26,7 +28,6 @@ I am a Language Enthusiast. Yo puedo hablar en español. Я тоже могу г
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-##  My Github Status 👩🏻‍💻
- 
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekchachra" />
+
+
  
