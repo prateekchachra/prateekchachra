@@ -14,7 +14,7 @@ I am a Language Enthusiast. Yo puedo hablar en español. Я тоже могу г
 <br>
 
 - Full Stack Development (React/Next.js as FE with some Remix and Astro thrown in, Node.js Express or Fastify as backend) 
-- Hybrid (Android/iOS) Mobile Application Development (React Native) 
+- Hybrid (Android/iOS) Mobile Application Development (React Native + SwiftUI) 
 - CI / CD
 
 ##  My Github Status 👩🏻‍💻
