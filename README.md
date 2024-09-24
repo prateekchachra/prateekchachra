@@ -1,6 +1,6 @@
 ### Hola! I'm Prateek 👋
 
-Hi, I'm Prateek Chachra. A Full Stack Developer, who sometimes dabbles in Mobile Development from time to time and an Entrepreneurship Enthusiast🚀 from Madrid, Spain. 
+Hi, I'm Prateek Chachra. A Full Stack/Mobile Developer and an Entrepreneurship Enthusiast🚀 from Madrid, Spain. 
 You can find me on [**Twitter**](https://twitter.com/ThatReactDev) and [**LinkedIn**](https://www.linkedin.com/in/prateek-chachra-3a2030a7/). 
 
 I also happen to be a [**Musician On Spotify 🎸**](https://open.spotify.com/artist/46erpDvrtJP65LlxdXjktW) with over 3 albums and thousands of listeners. My Artist name is [**Darzini**](https://darzini.vercel.app/) and you can find my upcoming album on [**YouTube**](https://www.youtube.com/playlist?list=PLqj02hzEUmPlKg9wNPdGHLziH7qAefUL6)
